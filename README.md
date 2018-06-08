@@ -14,9 +14,9 @@
 [![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg)](https://github.com/orbitthemes/porto)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/orbitthemes/porto/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/porto-template)
-[![Build Status](https://travis-ci.org/orbitthemes/One-Col-Portfolio.svg?branch=master)](https://travis-ci.org/orbitthemes/porto)
-[![dependencies Status](https://david-dm.org/orbitthemes/One-Col-Portfolio/status.svg)](https://david-dm.org/orbitthemes/porto)
-[![devDependencies Status](https://david-dm.org/orbitthemes/One-Col-Portfolio/dev-status.svg)](https://david-dm.org/orbitthemes/porto?type=dev)
+[![Build Status](https://travis-ci.org/orbitthemes/porto.svg?branch=master)](https://travis-ci.org/orbitthemes/porto)
+[![dependencies Status](https://david-dm.org/orbitthemes/porto/status.svg)](https://david-dm.org/orbitthemes/porto)
+[![devDependencies Status](https://david-dm.org/orbitthemes/porto/dev-status.svg)](https://david-dm.org/orbitthemes/porto?type=dev)
 
 ## Features
 
